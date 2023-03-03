@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hannibaa
-- 👀 I’m interested in programming in c/c++, fortran, (basic ,pascal was my first languages back 26 years old)
-- 🌱 mathematics( complex analysis; numerical analysis; differential equations)
--    analytical mechanics, fluid dynamics... .
+- 👀 I’m interested in programming
+- 🌱 ...;
 - 💞️ will develop some interested application just when get in c++;
 - 📫 How to reach me by email; 
 & No Fb; No Twtr; No Any SocMd.
